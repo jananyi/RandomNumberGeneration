@@ -1,0 +1,40 @@
+.background{
+    background-color: rgb(161, 246, 246);
+    text-align: center;
+    margin-top: 15%;
+}
+
+.main_title{
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: #5e001f;
+    margin: 1%;
+}
+
+#num{
+    font-size: larger;
+    border-color: rgb(26, 1, 1);
+    margin: 1%;
+}
+
+.button{
+    font-size: medium;
+    border-color: rgb(26, 1, 1); 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500; 
+}
+
+#results{
+    font-size: 25px;
+    border-color: rgb(26, 1, 1); 
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+#score{
+    font-size: 25px;
+    border-color: rgb(26, 1, 1); 
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
